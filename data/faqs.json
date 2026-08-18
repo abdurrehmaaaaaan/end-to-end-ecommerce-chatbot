@@ -1,0 +1,102 @@
+[
+  {
+    "id": "faq_01",
+    "question": "What is the return policy for products bought on Priceoye?",
+    "answer": "Priceoye allows returns or replacements within 3 days of delivery, but only if the product is defective, damaged, or different from what was ordered. Returns are not accepted for a simple change of mind. Complaints must be raised through the account dashboard with an unboxing video attached."
+  },
+  {
+    "id": "faq_02",
+    "question": "How do I return a faulty product?",
+    "answer": "Log into your Priceoye account, open the Complaints section under your dashboard, and submit the issue with a full unboxing video and a video showing the defect. Incomplete complaints cannot be processed."
+  },
+  {
+    "id": "faq_03",
+    "question": "What happens after I file a return complaint?",
+    "answer": "If a defect is confirmed within the 3 day return window, Priceoye replaces the item with the same model at no extra cost. If no defect is confirmed, you are referred to the brand's service center instead."
+  },
+  {
+    "id": "faq_04",
+    "question": "Do laptops come with a warranty?",
+    "answer": "Warranty coverage depends on the product category and brand, and is usually stated on the product page. Most branded laptops on Priceoye include a local dealer or brand warranty valid for one year unless stated otherwise."
+  },
+  {
+    "id": "faq_05",
+    "question": "Where can I claim my laptop warranty?",
+    "answer": "Brand warranty can usually be claimed at the manufacturer's authorized service center anywhere in Pakistan, so you do not need to ship the laptop back to Priceoye for standard warranty repairs."
+  },
+  {
+    "id": "faq_06",
+    "question": "How long does delivery take?",
+    "answer": "Once payment is confirmed, orders are dispatched promptly. Prepaid orders are held for about 24 hours so the payment gateway can verify the transaction before dispatch."
+  },
+  {
+    "id": "faq_07",
+    "question": "What proof do I need to accept delivery?",
+    "answer": "The recipient is required to show a CNIC for identity verification and to sign the delivery document when the rider hands over the package."
+  },
+  {
+    "id": "faq_08",
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, orders can be cancelled by calling the Priceoye helpline. For prepaid orders, the processing fee is not refunded on cancellation, and any prepaid amount is refunded to the original payment method."
+  },
+  {
+    "id": "faq_09",
+    "question": "What is Open Parcel delivery?",
+    "answer": "Open Parcel lets you inspect the sealed packaging in front of the rider before accepting the order, for an extra charge of Rs 300. It is available only in select cities and does not apply to orders shipped through third party couriers."
+  },
+  {
+    "id": "faq_10",
+    "question": "What if my order arrives damaged or wrong under Open Parcel?",
+    "answer": "If the product is missing, damaged, or different from what was ordered, the rider takes the package back and a refund or replacement is initiated based on your preference."
+  },
+  {
+    "id": "faq_11",
+    "question": "Can I pick up my order myself instead of home delivery?",
+    "answer": "Self pickup is available in select cities. After placing the order you get a confirmation SMS, and once ready you receive a pickup notification. Orders must be collected within 48 hours with the Order ID and original CNIC, and only cash payment is accepted at pickup."
+  },
+  {
+    "id": "faq_12",
+    "question": "Does Priceoye offer installment plans?",
+    "answer": "Yes, items priced above roughly Rs 10,000 can typically be purchased on installment plans, making higher priced items like laptops more affordable over time."
+  },
+  {
+    "id": "faq_13",
+    "question": "How do refunds work?",
+    "answer": "Refunds are issued back through the same payment method used at checkout, whether that was a card, bank transfer, or another digital payment option."
+  },
+  {
+    "id": "faq_14",
+    "question": "Is Priceoye responsible for delivery delays?",
+    "answer": "Priceoye is not liable for delays caused by factors outside its control, such as bad weather or incorrect addresses, but customers are notified of delays and given an updated delivery estimate where possible."
+  },
+  {
+    "id": "faq_15",
+    "question": "Can Priceoye cancel my order?",
+    "answer": "Priceoye reserves the right to cancel an order for reasons such as stock unavailability, pricing errors, or suspected fraudulent activity."
+  },
+  {
+    "id": "faq_16",
+    "question": "How can I contact Priceoye customer support?",
+    "answer": "You can reach Priceoye's customer care center by phone or email, with contact details listed on the website's contact and policy pages."
+  },
+  {
+    "id": "faq_17",
+    "question": "Can I compare different laptops before buying?",
+    "answer": "Yes, product pages include a compare option that lets you place multiple laptops side by side to review specs and pricing before deciding."
+  },
+  {
+    "id": "faq_18",
+    "question": "What does the discount percentage shown on a laptop mean?",
+    "answer": "It reflects the reduction from the original listed price to the current selling price, so you can see how much you are saving on that specific listing."
+  },
+  {
+    "id": "faq_19",
+    "question": "Are laptop prices on Priceoye fixed or negotiable?",
+    "answer": "Prices listed are fixed online prices set by Priceoye or its sellers and are not negotiable through the platform, though prices can change over time with new deals."
+  },
+  {
+    "id": "faq_20",
+    "question": "What payment methods are accepted?",
+    "answer": "Priceoye accepts both prepaid digital payments such as cards and bank transfers, as well as cash based options like cash on delivery or cash at self pickup."
+  }
+]
